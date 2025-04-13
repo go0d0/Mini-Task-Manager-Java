@@ -28,16 +28,16 @@ MINI TASK MANAGER
 3. Contoh Output Program
 
    ==== MINI TASK MANAGER ====
-   1. Override
-   2. Overloading
-   3. ArrayList (Create & Read)
-   4. HashMap (Data Mahasiswa)
-   5. Lambda Expression
-   6. Stream API
-   7. Thread Biasa
-   8. Executor Tanpa Sinkronisasi
-   9. Executor Dengan Sinkronisasi
-   10. Keluar
+ 1. Override
+2. Overloading
+3. ArrayList (Create & Read)
+4. HashMap (Data Mahasiswa)
+5. Lambda Expression
+6. Stream API
+7. Thread Biasa
+8. Executor Tanpa Sinkronisasi
+9. Executor Dengan Sinkronisasi
+10. Keluar
    Masukkan pilihan: _
 
 4. Catatan Tambahan
