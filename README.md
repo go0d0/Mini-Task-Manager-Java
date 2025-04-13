@@ -23,29 +23,14 @@
    - threadt                 : Runnable biasa untuk multithread  
    - paralel, pertama, kedua: ExecutorService (dengan & tanpa synchronized)
 
-3. **Contoh Output Program**
 
-     ==== MINI TASK MANAGER ====
-     - Override  
-     - Overloading  
-     - ArrayList (Create & Read)  
-     - HashMap (Data Mahasiswa)  
-     - Lambda Expression  
-     - Stream API  
-     - Thread Biasa  
-     - Executor Tanpa Sinkronisasi  
-     - Executor Dengan Sinkronisasi  
-     - Keluar  
-
-     Masukkan pilihan:
-
-4. **Catatan Tambahan**
+3. **Catatan Tambahan**
 
    - Proyek ini tidak menggunakan library eksternal.  
    - Semua fitur dibangun dengan Java Native Library. 
    - Disusun sebagai proyek mini akhir dari topik OOP lanjutan.
 
-5. **Lisensi**
+4. **Lisensi**
 
    Proyek ini dibuat untuk keperluan belajar dan dapat digunakan secara bebas  
    untuk pembelajaran atau referensi tugas kuliah.
