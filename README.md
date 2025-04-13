@@ -28,7 +28,7 @@ MINI TASK MANAGER
 3. Contoh Output Program
 
    ==== MINI TASK MANAGER ====
- 1. Override
+1. Override
 2. Overloading
 3. ArrayList (Create & Read)
 4. HashMap (Data Mahasiswa)
