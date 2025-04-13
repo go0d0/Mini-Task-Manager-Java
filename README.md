@@ -13,7 +13,7 @@ This is a console-based Java application that simulates a **Mini Task Manager**,
 
 ---
 
-## 📌 Features
+##  Features
 
 | No. | Feature                                      | Description |
 |-----|----------------------------------------------|-------------|
