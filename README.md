@@ -1,6 +1,6 @@
 # MINI TASK MANAGER
 
-1. Deskripsi Proyek
+1. **Deskripsi Proyek**
 
    Mini Task Manager adalah aplikasi berbasis CLI menggunakan Java  
    yang bertujuan untuk menggabungkan seluruh konsep pemrograman  
@@ -11,7 +11,7 @@
    Aplikasi ini menyediakan menu interaktif agar pengguna dapat  
    menjalankan setiap fitur dengan jelas dan mudah.
 
-2. Struktur Kelas
+2. **Struktur Kelas**
 
    - MiniTaskManager         : Kelas utama dan menu program  
    - proyek (implements oe)  : Demonstrasi overloading & overriding  
@@ -23,30 +23,29 @@
    - threadt                 : Runnable biasa untuk multithread  
    - paralel, pertama, kedua: ExecutorService (dengan & tanpa synchronized)
 
-3. Contoh Output Program
+3. **Contoh Output Program**
 
      ==== MINI TASK MANAGER ====
-     1. Override  
-     2. Overloading  
-     3. ArrayList (Create & Read)  
-     4. HashMap (Data Mahasiswa)  
-     5. Lambda Expression  
-     6. Stream API  
-     7. Thread Biasa  
-     8. Executor Tanpa Sinkronisasi  
-     9. Executor Dengan Sinkronisasi  
-     10. Keluar  
+     - Override  
+     - Overloading  
+     - ArrayList (Create & Read)  
+     - HashMap (Data Mahasiswa)  
+     - Lambda Expression  
+     - Stream API  
+     - Thread Biasa  
+     - Executor Tanpa Sinkronisasi  
+     - Executor Dengan Sinkronisasi  
+     - Keluar  
 
      Masukkan pilihan:
 
-4. Catatan Tambahan
+4. **Catatan Tambahan**
 
    - Proyek ini tidak menggunakan library eksternal.  
-   - Semua fitur dibangun dengan Java Native Library.  
-   - Ideal digunakan sebagai latihan pemahaman lanjutan Java.  
+   - Semua fitur dibangun dengan Java Native Library. 
    - Disusun sebagai proyek mini akhir dari topik OOP lanjutan.
 
-5. Lisensi
+5. **Lisensi**
 
    Proyek ini dibuat untuk keperluan belajar dan dapat digunakan secara bebas  
    untuk pembelajaran atau referensi tugas kuliah.
