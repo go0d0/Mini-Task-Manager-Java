@@ -36,4 +36,5 @@
    untuk pembelajaran atau referensi tugas kuliah.
 
 5. **Hasil**
+   <br>
    gambar_projek.pdf
