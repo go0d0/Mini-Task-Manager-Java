@@ -38,7 +38,7 @@ To compile and run this program, you will need to have a Java Development Kit (J
 
 Once you have compiled the code, you can run it using the following command:
 
-```bash
+```
 java MiniTaskManager
 ```
 
